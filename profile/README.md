@@ -35,7 +35,7 @@
 ## 👥 Developers
 <div align="center">
 
-| BE | BE | BE | BE | FE/BE |
+| BE | BE | BE | BE | DESIGN/FE/BE |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <img style="width: 150px;" src="https://github.com/eunju1118.png" /> | <img style="width: 150px;" src="https://github.com/jaeyeonyy.png" /> | <img style="width: 150px;" src="https://github.com/codebidoof.png" /> | <img style="width: 150px;" src="https://github.com/bokgi.png" /> | <img style="width: 150px;" src="https://github.com/jjjuni.png" /> |
 |[강은주](https://github.com/eunju1118)|[문재연](https://github.com/jaeyeonyy)|[문현우](https://github.com/codebidoof)|[신복기](https://github.com/bokgi)|[이준희](https://github.com/jjjuni)|
