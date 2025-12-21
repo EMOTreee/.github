@@ -3,6 +3,8 @@
 
 🔗 서비스 링크 : https://emotreee.vercel.app
 
+🔗 시연 영상 : https://youtu.be/_jhNzmFFsiM 
+
 <br/>
 <br/>
 
